@@ -57,6 +57,24 @@ body {
   border-radius: 50%;
   border: 3px solid #fff;
 }
+/*
+.profile-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  transform: rotate(180deg); 
+}
+
+.image .profile-img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  transform: scaleX(-1); 
+}*/
 
 .profile-card .text-data {
   display: flex;
